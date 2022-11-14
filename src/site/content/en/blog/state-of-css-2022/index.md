@@ -1581,7 +1581,7 @@ can have very large impacts, for both convenience and legibility.
 {% Aside 'warning' %}
 Nesting more than four or five levels can become more troublesome
 than repeating selectors. We advise you to not nest so deep, and instead
-begin a new selector blog and nest within it.
+begin a new selector block and nest within it.
 {% endAside %}
 
 #### Resources
